@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"object_blob",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"object_blob",
   "overriddenProperties":[],

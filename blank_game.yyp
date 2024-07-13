@@ -64,6 +64,8 @@
     {"id":{"name":"spritesheet_chicks_1","path":"sprites/spritesheet_chicks_1/spritesheet_chicks_1.yy",},},
     {"id":{"name":"spritesheet_chicks_2","path":"sprites/spritesheet_chicks_2/spritesheet_chicks_2.yy",},},
     {"id":{"name":"spritesheet_misc_objects_1","path":"sprites/spritesheet_misc_objects_1/spritesheet_misc_objects_1.yy",},},
+    {"id":{"name":"TileSet_misc","path":"tilesets/TileSet_misc/TileSet_misc.yy",},},
+    {"id":{"name":"TileSet_worms","path":"tilesets/TileSet_worms/TileSet_worms.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
